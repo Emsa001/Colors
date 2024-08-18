@@ -1,6 +1,6 @@
 
 ## Colors.hpp
-Yayyy colors in terminal
+Yayyy [Tailwindcss colors](https://tailwindcss.com/docs/customizing-colors) in terminal
 
 
 
